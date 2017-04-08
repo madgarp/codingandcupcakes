@@ -1,0 +1,14 @@
+html, body {
+	background: #1ABC9C;
+	font-family: 'Lato', sans-serif;
+	color: #6C6B6B;
+	margin: 0px;
+	padding: 0px;
+	overflow-x: hidden;
+}
+.header{
+	overflow: auto;
+	display: block;
+	clear:both;
+	background: #76D7C4;
+}
